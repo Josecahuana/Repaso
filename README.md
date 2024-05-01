@@ -16,7 +16,7 @@ Permite guardar los datos en un objeto
 | Before | se usaba function name() para crear una function|
 | After | Se puede () => para crear una function |
 
-## destructuring
+## Destructuring
 
 | Destructuring | Concepto |
 | --- | --- |
@@ -44,3 +44,10 @@ Permite guardar los datos en un objeto
 | Export default | Al ser importado su nombre puede cambiar |
 
 ## Ternarios
+
+| Terrnarios | Concepto |
+| --- | --- |
+| Before | Para hacer setencias se usaba el if - else |
+| After | Para hacer sentencias ya no aplica el if else |
+
+  1. Example  -> name ? 'Welcome' : 'No found'
